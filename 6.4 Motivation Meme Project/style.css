@@ -1,0 +1,13 @@
+body{
+    background: black;
+}
+div{
+    margin-top: 100px;
+    margin: 25%;
+    color: white;
+    text-align: center;
+}
+img{
+    border: 5px solid white;
+    width: 100%;
+}
